@@ -178,7 +178,7 @@ namespace B.IPTimer
             this.MinimumSize = new System.Drawing.Size(228, 258);
             this.Name = "Form2";
             this.ShowIcon = false;
-            this.Text = "TASK";
+            this.Text = "Задание";
             this.ResumeLayout(false);
             this.PerformLayout();
 
