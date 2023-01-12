@@ -8,9 +8,7 @@ namespace B.IPTimer
 {
     static class Program
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
+        //BOLOFFICIAL
         [STAThread]
         static void Main()
         {
