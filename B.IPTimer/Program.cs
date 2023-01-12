@@ -8,7 +8,6 @@ namespace B.IPTimer
 {
     static class Program
     {
-        //BOLOFFICIAL
         [STAThread]
         static void Main()
         {
